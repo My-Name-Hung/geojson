@@ -1,0 +1,22 @@
+diff --git a/node_modules/mapbox-gl/src/ui/default_locale.js b/node_modules/mapbox-gl/src/ui/default_locale.js
+index 969578e..f8b4900 100644
+--- a/node_modules/mapbox-gl/src/ui/default_locale.js
++++ b/node_modules/mapbox-gl/src/ui/default_locale.js
+@@ -5,13 +5,13 @@ const defaultLocale = {
+     'AttributionControl.MapFeedback': 'Map feedback',
+     'FullscreenControl.Enter': 'Enter fullscreen',
+     'FullscreenControl.Exit': 'Exit fullscreen',
+-    'GeolocateControl.FindMyLocation': 'Find my location',
++    'GeolocateControl.FindMyLocation': 'Vị trí của bạn',
+     'GeolocateControl.LocationNotAvailable': 'Location not available',
+     'LogoControl.Title': 'Mapbox logo',
+     'Map.Title': 'Map',
+-    'NavigationControl.ResetBearing': 'Reset bearing to north',
+-    'NavigationControl.ZoomIn': 'Zoom in',
+-    'NavigationControl.ZoomOut': 'Zoom out',
++    'NavigationControl.ResetBearing': 'Thay đổi hướng',
++    'NavigationControl.ZoomIn': 'Phóng to',
++    'NavigationControl.ZoomOut': 'Thu nhỏ',
+     'ScrollZoomBlocker.CtrlMessage': 'Use ctrl + scroll to zoom the map',
+     'ScrollZoomBlocker.CmdMessage': 'Use ⌘ + scroll to zoom the map',
+     'TouchPanBlocker.Message': 'Use two fingers to move the map'

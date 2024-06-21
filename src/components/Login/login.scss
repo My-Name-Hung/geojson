@@ -1,0 +1,40 @@
+.body{
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+    .logo{
+        p{
+            background: linear-gradient(-45deg, rgb(182, 182, 242), rgb(80, 254, 80), yellow, white);
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: gradient2 5s ease infinite;
+            background-size: 400% 400%;
+
+            @keyframes gradient2 {
+                0% {
+                    background-position: 50% 0%;
+                }
+                50% {
+                    background-position: 50% 100%;
+                }
+                100% {
+                    background-position: 50% 0%;
+                }
+            }
+        }
+    }
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+

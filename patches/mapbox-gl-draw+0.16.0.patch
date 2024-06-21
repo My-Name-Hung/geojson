@@ -1,0 +1,22 @@
+diff --git a/node_modules/mapbox-gl-draw/src/events.js b/node_modules/mapbox-gl-draw/src/events.js
+index 85350ea..c054db9 100644
+--- a/node_modules/mapbox-gl-draw/src/events.js
++++ b/node_modules/mapbox-gl-draw/src/events.js
+@@ -169,7 +169,7 @@ module.exports = function(ctx) {
+       ctx.container.addEventListener('mouseout', events.mouseout);
+ 
+       if (ctx.options.keybindings) {
+-        ctx.container.addEventListener('keydown', events.keydown);
++        ctx.container.addEventListener('keydowns', events.keydown);
+         ctx.container.addEventListener('keyup', events.keyup);
+       }
+     },
+@@ -182,7 +182,7 @@ module.exports = function(ctx) {
+       ctx.container.removeEventListener('mouseout', events.mouseout);
+ 
+       if (ctx.options.keybindings) {
+-        ctx.container.removeEventListener('keydown', events.keydown);
++        ctx.container.removeEventListener('keydowns', events.keydown);
+         ctx.container.removeEventListener('keyup', events.keyup);
+       }
+     },

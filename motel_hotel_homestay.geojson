@@ -1,0 +1,741 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7625766,10.5320484 ]
+    },
+    "properties": {
+    "id":1,
+    "Name":"Nhà Nghỉ Miss Trâm",
+    "Price":null,
+    "Address":"GQJ7+R2, Lý Nhơn, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":3.6,
+    "AccountRat":7,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7630907,10.5603922 ]
+    },
+    "properties": {
+    "id":2,
+    "Name":"Nhà Nghỉ An An",
+    "Price":"200.000đ/đêm",
+    "Address":"219 Đường Lý Nhơn, Doi Lầu, An Thới Đông, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":4.3,
+    "AccountRat":6,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8254587,10.5881448 ]
+    },
+    "properties": {
+    "id":3,
+    "Name":"Nhà Nghỉ Xuân Thanh",
+    "Price":null,
+    "Address":"HRQG+754, Rừng Sác, An Thới Đông, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":2.8,
+    "AccountRat":5,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9742562,10.467925 ]
+    },
+    "properties": {
+    "id":4,
+    "Name":"Nhà Nghỉ Bình An",
+    "Price":null,
+    "Address":"Thạnh An, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":4.7,
+    "AccountRat":86,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9765284,10.4724915 ]
+    },
+    "properties": {
+    "id":5,
+    "Name":"Nhà Nghỉ Quỳnh Hoa",
+    "Price":null,
+    "Address":"FXCG+XJR, Unnamed, Road, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":3.9,
+    "AccountRat":28,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8213508,10.5949153 ]
+    },
+    "properties": {
+    "id":6,
+    "Name":"Nhà Nghỉ Khương Thịnh",
+    "Price":null,
+    "Address":"HRVC+XG9, Rừng Sác, An Thới Đông, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":3.2,
+    "AccountRat":12,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9746597,10.4700412 ]
+    },
+    "properties": {
+    "id":7,
+    "Name":"Nhà Nghỉ Quốc Thái",
+    "Price":null,
+    "Address":"FXCF+2V7, Thạnh An, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.1,
+    "AccountRat":44,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.804969,10.6212141 ]
+    },
+    "properties": {
+    "id":8,
+    "Name":"Nhà Nghỉ Quang Phú",
+    "Price":"150.000đ/đêm",
+    "Address":"Bình Khánh, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":2.7,
+    "AccountRat":12,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9755067,10.4711472 ]
+    },
+    "properties": {
+    "id":9,
+    "Name":"Nhà Nghỉ Quyên Quyên",
+    "Price":null,
+    "Address":"FXCG+F54, Thạnh An, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":3,
+    "AccountRat":2,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9751855,10.4710319 ]
+    },
+    "properties": {
+    "id":10,
+    "Name":"Nhà Nghỉ Quang Khải",
+    "Price":null,
+    "Address":"FXCG+84M, Thạnh An, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":null,
+    "AccountRat":0,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9582237,10.5148497 ]
+    },
+    "properties": {
+    "id":12,
+    "Name":"Thiềng Liềng Homestay",
+    "Price":null,
+    "Address":"GX75+W7Q, Khu dân cư Ấp Thiềng Liềng, Thạnh An, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+    "Rating":5,
+    "AccountRat":3,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9644399,10.4061769 ]
+    },
+    "properties": {
+    "id":13,
+    "Name":"Nhà Nghỉ Song Anh",
+    "Price":null,
+    "Address":"Unnamed, Road, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.1,
+    "AccountRat":87,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9596853,10.4042717 ]
+    },
+    "properties": {
+    "id":14,
+    "Name":"Nhà Nghỉ Quốc Tiến",
+    "Price":"200.000đ/đêm",
+    "Address":"157 Duyên Hải, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":3.7,
+    "AccountRat":18,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9124625,10.3945144 ]
+    },
+    "properties": {
+    "id":15,
+    "Name":"Nhà Nghỉ Thái An 1",
+    "Price":null,
+    "Address":"Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":3.5,
+    "AccountRat":14,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7903928,10.6389586 ]
+    },
+    "properties": {
+    "id":16,
+    "Name":"Nhà Nghỉ Ưng Thuận Phát",
+    "Price":null,
+    "Address":"394 bình an, Bình Khánh, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":3.7,
+    "AccountRat":3,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9188161,10.3879914 ]
+    },
+    "properties": {
+    "id":17,
+    "Name":"Nhà Nghỉ Tâm Tâm",
+    "Price":null,
+    "Address":"3 Đường Số 1, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":3.4,
+    "AccountRat":68,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9189321,10.387099 ]
+    },
+    "properties": {
+    "id":18,
+    "Name":"Nhà Nghỉ Khánh Vân 1",
+    "Price":null,
+    "Address":"148A Thạnh Thới, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":3.8,
+    "AccountRat":12,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9168439,10.3954601 ]
+    },
+    "properties": {
+    "id":19,
+    "Name":"Nhà Nghỉ Khoa Nguyên",
+    "Price":null,
+    "Address":"9WW8+5PQ, Duyên Hải, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":3.6,
+    "AccountRat":53,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.868569,10.5058875 ]
+    },
+    "properties": {
+    "id":20,
+    "Name":"Nhà Nghỉ Ven Sông",
+    "Price":null,
+    "Address":"GV49+9C4, Rừng Sác, An Thới Đông, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.7,
+    "AccountRat":6,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9196647,10.3981448 ]
+    },
+    "properties": {
+    "id":22,
+    "Name":"Nhà Nghỉ Minh Anh",
+    "Price":null,
+    "Address":"9WX9+7V3, Thạnh Thới, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":5,
+    "AccountRat":3,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9105767,10.3915099 ]
+    },
+    "properties": {
+    "id":23,
+    "Name":"Nhà Nghỉ Hoàng An",
+    "Price":null,
+    "Address":"9WR6+J64 Cửa Hàng Vĩnh Tiến - Duyên Hải, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.9,
+    "AccountRat":36,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9177454,10.3954738 ]
+    },
+    "properties": {
+    "id":24,
+    "Name":"Nhà Nghỉ Hoàng Phương",
+    "Price":null,
+    "Address":"1 Duyên Hải, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":2.4,
+    "AccountRat":18,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7955968,10.489622 ]
+    },
+    "properties": {
+    "id":26,
+    "Name":"Phòng Nghỉ Khu Du Lịch Sinh thái Vàm Sát",
+    "Price":null,
+    "Address":"15A Group, Town, Lý Nhơn, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":3.9,
+    "AccountRat":756,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9528166,10.5157809 ]
+    },
+    "properties": {
+    "id":27,
+    "Name":"Khách sạn Nhím's",
+    "Price":null,
+    "Address":"GX82+3WW, Thạnh An, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+    "Rating":5,
+    "AccountRat":4,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9089629,10.3890736 ]
+    },
+    "properties": {
+    "id":28,
+    "Name":"Nhà Nghỉ Quốc Thiện",
+    "Price":null,
+    "Address":"972 Duyên Hải, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":null,
+    "AccountRat":0,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8055142,10.6182819 ]
+    },
+    "properties": {
+    "id":29,
+    "Name":"Nhà Nghỉ Tuấn Tú",
+    "Price":null,
+    "Address":"JR94+866, Trần Quang Nhơn, Bình Khánh, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+    "Rating":null,
+    "AccountRat":0,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9777332,10.473513 ]
+    },
+    "properties": {
+    "id":32,
+    "Name":"Khách sạn Út Thoại",
+    "Price":null,
+    "Address":"Thanh An, Cần Giờ, Ho Chi Minh City",
+    "Rating":4.5,
+    "AccountRat":2,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.969563,10.4104101 ]
+    },
+    "properties": {
+    "id":33,
+    "Name":"Nhà Nghỉ Hoàng Quân",
+    "Price":null,
+    "Address":"CX69+5R8, Đặng văn Kiều, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":5,
+    "AccountRat":2,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9542965,10.4023486 ]
+    },
+    "properties": {
+    "id":34,
+    "Name":"Nhà Nghỉ Bảo Nhung",
+    "Price":null,
+    "Address":"CX23+WPM, Duyên Hải, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":3.5,
+    "AccountRat":8,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9191813,10.3960379 ]
+    },
+    "properties": {
+    "id":35,
+    "Name":"Nhà Nghỉ Thái Ngân",
+    "Price":null,
+    "Address":"9WW9+CM7, Thạnh Thới, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":2.6,
+    "AccountRat":5,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9197901,10.3984685 ]
+    },
+    "properties": {
+    "id":40,
+    "Name":"Nhà Nghỉ Nisori",
+    "Price":null,
+    "Address":"69 Thạnh Thới, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":null,
+    "AccountRat":0,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9218611,10.3956466 ]
+    },
+    "properties": {
+    "id":42,
+    "Name":"Nhà nghỉ 919 Cần Giờ",
+    "Price":null,
+    "Address":"Duyên Hải, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":5,
+    "AccountRat":4,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9607905,10.4153251 ]
+    },
+    "properties": {
+    "id":43,
+    "Name":"Khách sạn Eco",
+    "Price":null,
+    "Address":"CX86+48M, Tắc Xuất, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+    "Rating":4.1,
+    "AccountRat":16,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.888644,10.4094821 ]
+    },
+    "properties": {
+    "id":47,
+    "Name":"Khách Sạn Cần Giờ",
+    "Price":null,
+    "Address":"Long Hòa, Cần Giờ, Ho Chi Minh City, Vietnam",
+    "Rating":4.1,
+    "AccountRat":2332,
+    "Open/Close":"7 AM to 5 PM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7802127,10.6675977 ]
+    },
+    "properties": {
+    "id":48,
+    "Name":"Nhà Nghỉ Bình Khánh",
+    "Price":null,
+    "Address":"Bình Khánh, Cần Giờ, Ho Chi Minh City",
+    "Rating":4.3,
+    "AccountRat":4,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9042623,10.3829475 ]
+    },
+    "properties": {
+    "id":51,
+    "Name":"Nhà Nghỉ Hoàng An",
+    "Price":null,
+    "Address":"9WM3+5PC, Duyên Hải, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4,
+    "AccountRat":1,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9189841,10.3880142 ]
+    },
+    "properties": {
+    "id":52,
+    "Name":"Nhà Nghỉ Tân Thái Dương",
+    "Price":"529.000đ/đêm",
+    "Address":"2 Đường Số 1, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":4.1,
+    "AccountRat":263,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9197949,10.3978665 ]
+    },
+    "properties": {
+    "id":53,
+    "Name":"Hương Biển Hotel",
+    "Price":null,
+    "Address":"242 Thạnh Thới, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":4.3,
+    "AccountRat":73,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9192543,10.3880495 ]
+    },
+    "properties": {
+    "id":54,
+    "Name":"Phúc Homestay Cần Giờ",
+    "Price":null,
+    "Address":"Số 10, đường số 3, khu du lịch 30/4, Long Thạnh, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":4.4,
+    "AccountRat":29,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8796468,10.3815419 ]
+    },
+    "properties": {
+    "id":55,
+    "Name":"Nhà nghỉ Cần Giờ",
+    "Price":null,
+    "Address":"Ấp Đồng Tranh, Xã, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh",
+    "Rating":5,
+    "AccountRat":1,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.965957,10.4054607 ]
+    },
+    "properties": {
+    "id":56,
+    "Name":"Gió Lộng Boutique Hotel",
+    "Price":"840.000đ/đêm",
+    "Address":"166/8 Tắc Xuất, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.3,
+    "AccountRat":306,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9151243,10.39491799 ]
+    },
+    "properties": {
+    "id":57,
+    "Name":"Hotel ABC",
+    "Price":null,
+    "Address":"1 Duyên Hải, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":3.5,
+    "AccountRat":52,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9193343,10.39117396 ]
+    },
+    "properties": {
+    "id":58,
+    "Name":"Khách sạn Ruby Cần Giờ",
+    "Price":"671.000đ/đêm",
+    "Address":"121 Thạnh Thới, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.8,
+    "AccountRat":5,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9189667,10.38806043 ]
+    },
+    "properties": {
+    "id":59,
+    "Name":"Nhà nghỉ Tân Thái Dương",
+    "Price":"424.000đ/đêm",
+    "Address":"2 Đường Số 1, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.1,
+    "AccountRat":265,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9192058,10.3880892 ]
+    },
+    "properties": {
+    "id":60,
+    "Name":"Mangrove Hotel Cần Giờ",
+    "Price":"757.000đ/đêm",
+    "Address":"146 Thạnh Thới, Ấp Long Thạnh, Cần Giờ, Thành phố Hồ Chí Minh 759000, Việt Nam",
+    "Rating":4,
+    "AccountRat":164,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9137263,10.3830467 ]
+    },
+    "properties": {
+    "id":61,
+    "Name":"Khách Sạn Gió Biển Cần Giờ",
+    "Price":null,
+    "Address":"54 đường Nguyễn Văn Mạnh, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh 73307, Việt Nam",
+    "Rating":4.2,
+    "AccountRat":43,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  }
+]
+}

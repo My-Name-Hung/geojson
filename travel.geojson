@@ -1,0 +1,230 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9201183,10.38602298 ]
+    },
+    "properties": {
+    "id":1,
+    "Name":"Bãi biển 30/4",
+    "Address":"Thạnh Thới, Long Hòa, huyện Cần Giờ, TP.HCM",
+    "Rating":3.6,
+    "AccountRating":1047,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8909638,10.37781506 ]
+    },
+    "properties": {
+    "id":2,
+    "Name":"Khu du lịch sinh thái biển Phương Nam",
+    "Address":"Số 1227/65 đường Duyên Hải, xã Long Hòa, huyện Cần Giờ, TP.HCM",
+    "Rating":3.7,
+    "AccountRating":553,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7811228,10.47912537 ]
+    },
+    "properties": {
+    "id":3,
+    "Name":"Khu du lịch sinh thái Vàm Sát",
+    "Address":"Tiểu khu 15A, Lý Nhơn, Cần Giờ, TP.HCM",
+    "Rating":3.8,
+    "AccountRating":321,
+    "Open/Close":"Từ 8h00 đến 17h00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8886926,10.40974144 ]
+    },
+    "properties": {
+    "id":4,
+    "Name":"Khu căn cứ Vàm Sát Đảo Khỉ",
+    "Address":"CV4W+WQM, Đường Vào Đảo Khỉ, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.1,
+    "AccountRating":2338,
+    "Open/Close":"Từ 7h00 đến 17h00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9746528,10.4686801 ]
+    },
+    "properties": {
+    "id":5,
+    "Name":"Đảo Thạnh An",
+    "Address":"Xã Thạnh An, huyện Cần Giờ, TP.HCM",
+    "Rating":4.3,
+    "AccountRating":265,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8679828,10.50196849 ]
+    },
+    "properties": {
+    "id":6,
+    "Name":"Khu Du Lịch Sinh Thái Dần Xây",
+    "Address":"1541 Rừng Sác, An Thới Đông, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.5,
+    "AccountRating":272,
+    "Open/Close":"Từ 7h30 đến 17h00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.895951,10.41637623 ]
+    },
+    "properties": {
+    "id":7,
+    "Name":"Ngã 3 Sống Ảo Lâm Viên - Đồng Đình, Rừng Sác",
+    "Address":"Rừng Sác, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.7,
+    "AccountRating":78,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9736838,10.41335106 ]
+    },
+    "properties": {
+    "id":8,
+    "Name":"Công Viên Cần Thạnh",
+    "Address":"CX7F+8G2, Duyên Hải, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.1,
+    "AccountRating":1088,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9706401,10.40805624 ]
+    },
+    "properties": {
+    "id":9,
+    "Name":"Camping Eco Beach Cần Giờ",
+    "Address":"Tắc suất, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":3.5,
+    "AccountRating":122,
+    "Open/Close":"Từ 5h30 đến 23h30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9667104,10.40700214 ]
+    },
+    "properties": {
+    "id":10,
+    "Name":"Peace Camping Cần Giờ",
+    "Address":"Tắc Xuất, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.9,
+    "AccountRating":81,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9663638,10.40561922 ]
+    },
+    "properties": {
+    "id":11,
+    "Name":"Biển Dương Camping",
+    "Address":"Đường Tắc Xuất, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4,
+    "AccountRating":19,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9537665,10.40300442 ]
+    },
+    "properties": {
+    "id":12,
+    "Name":"Ngọc Chi Linh Camp",
+    "Address":"340 Duyên Hải, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":5,
+    "AccountRating":25,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9320898,10.40508051 ]
+    },
+    "properties": {
+    "id":13,
+    "Name":"Khoai Camping Garden",
+    "Address":"Hoà hiệp, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.5,
+    "AccountRating":57,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9420813,10.39627969 ]
+    },
+    "properties": {
+    "id":14,
+    "Name":"Khu Cắm Trại Biển Hẹn",
+    "Address":"Bùi Lâm, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "Rating":4.5,
+    "AccountRating":160,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8879838,10.37795497 ]
+    },
+    "properties": {
+    "id":15,
+    "Name":"Lata Camping",
+    "Address":"1227/6 Duyên Hải, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh 70000, Việt Nam",
+    "Rating":4.1,
+    "AccountRating":306,
+    "Open/Close":"Mở cửa cả ngày"
+    }
+  }
+]
+}

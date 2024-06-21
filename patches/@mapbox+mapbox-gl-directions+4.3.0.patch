@@ -1,0 +1,110 @@
+diff --git a/node_modules/@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.js b/node_modules/@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.js
+index 91d383b..57862f0 100644
+--- a/node_modules/@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.js
++++ b/node_modules/@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.js
+@@ -7368,9 +7368,9 @@ var Geocoder = /*#__PURE__*/function () {
+ 
+       // Template
+       var el = document.createElement('div');
+-      el.className = 'mapboxgl-ctrl-geocoder';
++      el.className = 'mapboxgl-ctrl-geocoders';
+       var icon = document.createElement('span');
+-      icon.className = 'geocoder-icon geocoder-icon-search';
++      icon.className = 'geocoder-icons geocoder-icon-searchs';
+       var input = this._inputEl = document.createElement('input');
+       input.type = 'text';
+       input.placeholder = this.options.placeholder;
+@@ -7403,12 +7403,12 @@ var Geocoder = /*#__PURE__*/function () {
+         }
+       }.bind(this));
+       var actions = document.createElement('div');
+-      actions.classList.add('geocoder-pin-right');
++      actions.classList.add('geocoder-pin-rights');
+       var clear = this._clearEl = document.createElement('button');
+-      clear.className = 'geocoder-icon geocoder-icon-close';
++      clear.className = 'geocoder-icons geocoder-icon-closes';
+       clear.addEventListener('click', this._clear.bind(this));
+       var loading = this._loadingEl = document.createElement('span');
+-      loading.className = 'geocoder-icon geocoder-icon-loading';
++      loading.className = 'geocoder-icons geocoder-icon-loadings';
+       actions.appendChild(clear);
+       actions.appendChild(loading);
+       el.appendChild(icon);
+@@ -7632,7 +7632,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
+ function _toPropertyKey(arg) { var key = _toPrimitive(arg, "string"); return _typeof(key) === "symbol" ? key : String(key); }
+ function _toPrimitive(input, hint) { if (_typeof(input) !== "object" || input === null) return input; var prim = input[Symbol.toPrimitive]; if (prim !== undefined) { var res = prim.call(input, hint || "default"); if (_typeof(res) !== "object") return res; throw new TypeError("@@toPrimitive must return a primitive value."); } return (hint === "string" ? String : Number)(input); }
+  // substack/brfs#39
+-var tmpl = (0, _lodash["default"])("<div class='mapbox-directions-component mapbox-directions-inputs'>\n  <div class='mapbox-directions-component-keyline'>\n    <div class='mapbox-directions-origin'>\n      <label class='mapbox-form-label'>\n        <span class='directions-icon directions-icon-depart'></span>\n      </label>\n      <div id='mapbox-directions-origin-input'></div>\n    </div>\n\n    <button\n      class='directions-icon directions-icon-reverse directions-reverse js-reverse-inputs'\n      title='Reverse origin &amp; destination'>\n    </button>\n\n    <div class='mapbox-directions-destination'>\n      <label class='mapbox-form-label'>\n        <span class='directions-icon directions-icon-arrive'></span>\n      </label>\n      <div id='mapbox-directions-destination-input'></div>\n    </div>\n  </div>\n\n  <% if (controls.profileSwitcher) { %>\n  <div class='mapbox-directions-profile mapbox-directions-component-keyline mapbox-directions-clearfix'><input\n      id='mapbox-directions-profile-driving-traffic'\n      type='radio'\n      name='profile'\n      value='mapbox/driving-traffic'\n      <% if (profile === 'mapbox/driving-traffic') { %>checked<% } %>\n    />\n    <label for='mapbox-directions-profile-driving-traffic'>Traffic</label>\n    <input\n      id='mapbox-directions-profile-driving'\n      type='radio'\n      name='profile'\n      value='mapbox/driving'\n      <% if (profile === 'mapbox/driving') { %>checked<% } %>\n    />\n    <label for='mapbox-directions-profile-driving'>Driving</label>\n    <input\n      id='mapbox-directions-profile-walking'\n      type='radio'\n      name='profile'\n      value='mapbox/walking'\n      <% if (profile === 'mapbox/walking') { %>checked<% } %>\n    />\n    <label for='mapbox-directions-profile-walking'>Walking</label>\n    <input\n      id='mapbox-directions-profile-cycling'\n      type='radio'\n      name='profile'\n      value='mapbox/cycling'\n      <% if (profile === 'mapbox/cycling') { %>checked<% } %>\n    />\n    <label for='mapbox-directions-profile-cycling'>Cycling</label>\n  </div>\n  <% } %>\n</div>\n");
++var tmpl = (0, _lodash["default"])("<div class='mapbox-directions-component mapbox-directions-inputs'>\n  <div class='mapbox-directions-component-keyline'>\n    <div class='mapbox-directions-origin'>\n      <label class='mapbox-form-label'>\n        <span class='directions-icon directions-icon-depart'></span>\n      </label>\n      <div id='mapbox-directions-origin-input'></div>\n    </div>\n\n    <button\n      class='directions-icon directions-icon-reverse directions-reverse js-reverse-inputs'\n      title='Reverse origin &amp; destination'>\n    </button>\n\n    <div class='mapbox-directions-destination'>\n      <label class='mapbox-form-label'>\n        <span class='directions-icon directions-icon-arrive'></span>\n      </label>\n      <div id='mapbox-directions-destination-input'></div>\n    </div>\n  </div>\n\n  <% if (controls.profileSwitcher) { %>\n  <div class='mapbox-directions-profile mapbox-directions-component-keyline mapbox-directions-clearfix'><input\n      id='mapbox-directions-profile-driving-traffic'\n      type='radio'\n      name='profile'\n      value='mapbox/driving-traffic'\n      <% if (profile === 'mapbox/driving-traffic') { %>checked<% } %>\n    />\n    <label for='mapbox-directions-profile-driving-traffic'>Xe máy</label>\n    <input\n      id='mapbox-directions-profile-driving'\n      type='radio'\n      name='profile'\n      value='mapbox/driving'\n      <% if (profile === 'mapbox/driving') { %>checked<% } %>\n    />\n    <label for='mapbox-directions-profile-driving'>Xe hơi</label>\n    <input\n      id='mapbox-directions-profile-walking'\n      type='radio'\n      name='profile'\n      value='mapbox/walking'\n      <% if (profile === 'mapbox/walking') { %>checked<% } %>\n    />\n    <label for='mapbox-directions-profile-walking'>Đi bộ</label>\n    <input\n      id='mapbox-directions-profile-cycling'\n      type='radio'\n      name='profile'\n      value='mapbox/cycling'\n      <% if (profile === 'mapbox/cycling') { %>checked<% } %>\n    />\n    <label for='mapbox-directions-profile-cycling'>Xe đạp</label>\n  </div>\n  <% } %>\n</div>\n");
+ 
+ /**
+  * Inputs controller
+@@ -8649,7 +8649,7 @@ var getInitialState = function getInitialState() {
+     placeholderOrigin: 'Choose a starting place',
+     placeholderDestination: 'Choose destination',
+     zoom: 16,
+-    language: 'en',
++    language: 'vi',
+     compile: null,
+     proximity: false,
+     styles: [],
+@@ -8818,14 +8818,14 @@ var format = {
+     s %= 60;
+     m %= 60;
+     if (h === 0 && m === 0) return s + 's';
+-    if (h === 0) return m + 'min';
+-    return h + 'h ' + m + 'min';
++    if (h === 0) return m + 'phút';
++    return h + 'h ' + m + 'phút';
+   },
+   imperial: function imperial(m) {
+     var mi = m / 1609.344;
+-    if (mi >= 100) return mi.toFixed(0) + 'mi';
+-    if (mi >= 10) return mi.toFixed(1) + 'mi';
+-    if (mi >= 0.1) return mi.toFixed(2) + 'mi';
++    if (mi >= 100) return mi.toFixed(0) + 'giây';
++    if (mi >= 10) return mi.toFixed(1) + 'giây';
++    if (mi >= 0.1) return mi.toFixed(2) + 'giây';
+     return (mi * 5280).toFixed(0) + 'ft';
+   },
+   metric: function metric(m) {
+diff --git a/node_modules/@mapbox/mapbox-gl-directions/src/templates/inputs.html b/node_modules/@mapbox/mapbox-gl-directions/src/templates/inputs.html
+index bd7b3dc..388e0f5 100644
+--- a/node_modules/@mapbox/mapbox-gl-directions/src/templates/inputs.html
++++ b/node_modules/@mapbox/mapbox-gl-directions/src/templates/inputs.html
+@@ -28,7 +28,7 @@
+       value='mapbox/driving-traffic'
+       <% if (profile === 'mapbox/driving-traffic') { %>checked<% } %>
+     />
+-    <label for='mapbox-directions-profile-driving-traffic'>Traffic</label>
++    <label for='mapbox-directions-profile-driving-traffic'>traffic</label>
+     <input
+       id='mapbox-directions-profile-driving'
+       type='radio'
+@@ -36,7 +36,7 @@
+       value='mapbox/driving'
+       <% if (profile === 'mapbox/driving') { %>checked<% } %>
+     />
+-    <label for='mapbox-directions-profile-driving'>Driving</label>
++    <label for='mapbox-directions-profile-driving'>driving</label>
+     <input
+       id='mapbox-directions-profile-walking'
+       type='radio'
+@@ -44,7 +44,7 @@
+       value='mapbox/walking'
+       <% if (profile === 'mapbox/walking') { %>checked<% } %>
+     />
+-    <label for='mapbox-directions-profile-walking'>Walking</label>
++    <label for='mapbox-directions-profile-walking'>walking</label>
+     <input
+       id='mapbox-directions-profile-cycling'
+       type='radio'
+@@ -52,7 +52,7 @@
+       value='mapbox/cycling'
+       <% if (profile === 'mapbox/cycling') { %>checked<% } %>
+     />
+-    <label for='mapbox-directions-profile-cycling'>Cycling</label>
++    <label for='mapbox-directions-profile-cycling'>cycling</label>
+   </div>
+   <% } %>
+ </div>
